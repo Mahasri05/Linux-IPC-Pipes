@@ -23,7 +23,7 @@ Testing the C Program for the desired output.
 
 # PROGRAM:
 ```
-NAME:MAHASRI D
+DEVELOPED BY:MAHASRI D
 REF NO:212224220058
 ```
 
